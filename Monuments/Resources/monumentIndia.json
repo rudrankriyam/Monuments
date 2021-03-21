@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Taj Mahal",
+        "region": "North",
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "information": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. \n\n It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal. \n\n It also houses the tomb of Shah Jahan, the builder.",
+        "id": 1,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": true,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 78.042068,
+            "latitude": 27.173891
+        },
+        "imageName": "tajmahal"
+    },
+    {
+        "name": "India Gate",
+        "region": "North",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "information": "The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the ceremonial axis of New Delhi, India, formerly called Kingsway. \n\n It is a memorial to 70,000 soldiers of the British Indian Army who died in the period 1914–21 in the First World War, and the Second Anglo-Afghan War.",
+        "id": 2,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": true,
+        "coordinates": {
+            "longitude": 77.229306,
+            "latitude": 28.612864
+        },
+        "imageName": "indiagate"
+    },
+    {
+        "name": "Qutub Minar",
+        "region": "North",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "information": "The Qutub Minar, is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India. \n\n It is a 73-metre tall tapering tower of five storeys, with a 14.3 metres base diameter, reducing to 2.7 metres at the top of the peak.",
+        "id": 3,
+        "fee": "Indian citizens: INR 30 and for foreign nationals: INR 500. Entry is free for children up to 15 years of age.",
+        "closestLocation": "By Metro - board from any DMRC station and reach Qutb Minar station and then follow rail map to reach the minar; by DTC buses; by Hop On Hop Off Sightseeing Bus Service offered by Delhi Tourism.",
+        "timing": "Sunrise to Sunset",
+        "isFavorite": false,
+        "isFeatured": true,
+        "coordinates": {
+            "longitude": 77.185248,
+            "latitude": 28.524355
+        },
+        "imageName": "qutubminar"
+    },
+    {
+        "name": "Charminar",
+        "region": "South",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "information": "The Charminar (four minarates), constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. \n\n The landmark has become known globally as a symbol of Hyderabad and is listed among the most recognized structures in India. \n\n The Charminar's long history includes the existence of a mosque on its top floor for more than 400 years.",
+        "id": 4,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 78.474533,
+            "latitude": 17.361431
+        },
+        "imageName": "charminar"
+    },
+    {
+        "name": "Gateway Of India",
+        "region": "West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "information": "The Gateway of India is an arch monument built during the 20th century in Mumbai, India. \n\n The monument was erected to commemorate the landing of King-Emperor George V and Queen-Empress Mary at Apollo Bunder on their visit to British India in 1911.",
+        "id": 5,
+        "fee": "INR 250",
+        "closestLocation": "Metro",
+        "timing": "Sunrise to sunset",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 72.834705,
+            "latitude": 18.921836
+        },
+        "imageName": "gatewayofindia"
+    },
+    {
+        "name": "Hawa Mahal",
+        "region": "West",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "information": "Hawa Mahal is a palace in Jaipur, India. \n\n Made with the red and pink sandstone, the palace sits on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers. \n\n The structure was built in 1799 by Maharaja Sawai Pratap Singh, the grandson of Sawai Jai Singh, who was the founder of Jaipur.",
+        "id": 6,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 75.822663,
+            "latitude": 26.920996
+        },
+        "imageName": "hawamahal"
+    },
+    {
+        "name": "Lotus Temple",
+        "region": "North",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "information": "The Lotus Temple, located in Delhi, India, is a Bahai House of Worship that was dedicated in December 1986. \n\n Notable for its flowerlike shape, it has become a prominent attraction in the city. \n\n Like all Bahai Houses of Worship, the Lotus Temple is open to all, regardless of religion or any other qualification.",
+        "id": 7,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 77.259132,
+            "latitude": 28.553558
+        },
+        "imageName": "lotustemple"
+    },
+    {
+        "name": "Victoria Memorial",
+        "region": "East",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "information": "The Victoria Memorial is a large marble building in Kolkata, West Bengal, India, which was built between 1906 and 1921. \n\n It is dedicated to the memory of Queen Victoria and is now a museum and tourist destination under the auspices of the Ministry of Culture.",
+        "id": 8,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 88.3425,
+            "latitude": 22.5449
+        },
+        "imageName": "victoriamemorial"
+    },
+    {
+        "name": "Humayun’s Tomb",
+        "region": "North",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "information": "Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. \n\n The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum, in 1569-70, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her.",
+        "id": 9,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 77.250602,
+            "latitude": 28.593264
+        },
+        "imageName": "humayunstomb"
+    },
+    {
+        "name": "Golden Temple",
+        "region": "North",
+        "city": "Amritsar",
+        "state": "Punjab",
+        "information": "The Harmandir Sahib, also known as Darbar Sahib, is a Gurdwara located in the city of Amritsar, Punjab, India. \n\n It is the preeminent pilgrimage site of Sikhism. It is usually called the Golden Temple in English, because it is plated with gold.",
+        "id": 10,
+        "fee": "",
+        "closestLocation": "",
+        "timing": "",
+        "isFavorite": false,
+        "isFeatured": false,
+        "coordinates": {
+            "longitude": 74.872829,
+            "latitude": 31.618664
+        },
+        "imageName": "goldentemple"
+    }
+]
